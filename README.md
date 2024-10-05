@@ -47,6 +47,9 @@ The Dashboard can showcase :
 *Tools*: Power-BI 
 *Link*: [View Project](https://github.com/yogeshdeo91/Power-BI-Amazon-User-Analysis-Project)  
 
+![Dashboard Image](https://github.com/user-attachments/assets/80da2b91-9055-4069-b714-4e31b61154ba)
+
+
 ---
 
 ## 🛠️ Tools & Technologies
@@ -61,15 +64,18 @@ The Dashboard can showcase :
 ## 📚 Certifications & Courses
 
 - Google Data Analytics Professional Certificate (Coursera)
-![Google Data analytics cert](https://github.com/user-attachments/assets/d3674063-0906-4d9b-8679-f8484c59be4d)
+
+![Google Data analytics cert](https://github.com/user-attachments/assets/4a034618-2546-43b0-8619-612bdfd37d90)
 
   
 - Data Visualization With Power BI (Great Learning)
-![PowerBI Cert](https://github.com/user-attachments/assets/fbb7c26e-09b7-47bd-bb7e-477b084c7627)
+
+![PowerBI Cert](https://github.com/user-attachments/assets/568ee32a-7841-44e8-b0a9-276051e14710)
 
   
 - SQL for Beginners: Learn SQL using MySQL and Database Design Course(Scaler)
-  ![SQL Certification](https://github.com/user-attachments/assets/717ad963-2695-4557-81fe-e45ec3d9d78d)
+  ![SQL Certification](https://github.com/user-attachments/assets/a45e500f-8b57-4f9d-a1d6-de3cec05d829)
+
 
 
 ---
