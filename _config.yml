@@ -1,13 +1,20 @@
+title: <p align="center"> Yogesh Deo </p>
 
-# Basic Configuration
-title: "Yogesh Deokar | Data Analytics Portfolio"
-description: "Showcasing projects in data analysis, data visualization, and business intelligence. Experienced in SQL, Power BI, Tableau, and R."
-url: "https://yogeshdeo91.github.io/yogeshdeo/" # Replace with your GitHub Pages URL
-baseurl: "" # Leave empty if deploying to https://your-username.github.io/, otherwise use "/your-repo-name"
-
-# Theme
-theme: minima # You can change this to another Jekyll theme from GitHub Pages supported themes
-remote_theme: "pages-themes/minimal@v0.2.0" # A popular, clean GitHub Pages theme (can be changed)
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/yogeshdeokar/">LinkedIn</a> |
+  <a href="https://github.com/yogeshdeo91">GitHub</a>
+  </p>
+  
+  <p align="justify">
+ I turn data into stories that drive smart decisions! With a love for digging into complex datasets, 
+ I specialise in creating clear, impactful visualizations and models that help businesses grow.Skilled in tools like SQL, Power BI, Tableau, and R, 
+ I blend analytical thinking with creativity to uncover insights, predict trends, and solve problems. 
+ When I’m not crunching numbers, you can find me watching movies, exploring new cuisines, or planning my next travel adventure. 
+ Let’s get those numbers working for you!
+  <br><br>
+  <br><br>
+  </p>
 
 # Social Links
 social:
