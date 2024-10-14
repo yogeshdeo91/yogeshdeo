@@ -1,2 +1,49 @@
-title: Yogesh Deo
-remote_theme: pages-themes/minimal@v0.2.0
+
+# Basic Configuration
+title: "Yogesh Deokar | Data Analytics Portfolio"
+description: "Showcasing projects in data analysis, data visualization, and business intelligence. Experienced in SQL, Power BI, Tableau, and R."
+url: "https://yogeshdeo91.github.io/yogeshdeo/" # Replace with your GitHub Pages URL
+baseurl: "" # Leave empty if deploying to https://your-username.github.io/, otherwise use "/your-repo-name"
+
+# Theme
+theme: minima # You can change this to another Jekyll theme from GitHub Pages supported themes
+remote_theme: "pages-themes/minimal@v0.2.0" # A popular, clean GitHub Pages theme (can be changed)
+
+# Social Links
+social:
+  github: https://github.com/yogeshdeo91
+  linkedin: https://www.linkedin.com/in/yogeshdeokar
+
+
+# SEO & Meta Tags
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Optional: If you want to include Markdown documentation pages
+markdown: kramdown
+
+# Exclude files from the site build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules/
+
+# Customize Minima Theme
+minima:
+  skin: "classic" # Change to "dark" or "solarized" if you'd like a different look
+
+# Navigation Links (Optional)
+header_pages:
+  - projects.md
+  - about.md
+  - blog.md
+
+# Pagination (if you have a blog)
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# Enable Table of Contents (Optional)
+toc: true
