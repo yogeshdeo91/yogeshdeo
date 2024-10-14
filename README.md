@@ -1,5 +1,3 @@
-# Yogesh Deo
-
 ## 🚀 About Me
 
 ##### I turn data into stories that drive smart decisions! With a love for digging into complex datasets, I specialise in creating clear, impactful visualizations and models that help businesses grow. Skilled in tools like SQL, Power BI, Tableau, and R, I blend analytical thinking with creativity to uncover insights, predict trends, and solve problems. When I’m not crunching numbers, you can find me watching movies, exploring new cuisines, or planning my next travel adventure. Let’s get those numbers working for you!
