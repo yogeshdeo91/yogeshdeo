@@ -2,13 +2,17 @@
 
 ##### I turn data into stories that drive smart decisions! With a love for digging into complex datasets, I specialise in creating clear, impactful visualizations and models that help businesses grow. Skilled in tools like SQL, Power BI, Tableau, and R, I blend analytical thinking with creativity to uncover insights, predict trends, and solve problems. When I’m not crunching numbers, you can find me watching movies, exploring new cuisines, or planning my next travel adventure. Let’s get those numbers working for you!
 
+
 ---
+
 
 ## 📊 Data Analysis Portfolio
 
 Welcome to my data analysis portfolio! This space showcases my work with data, from analysis and visualization to predictive modeling. Below, you'll find details on each project, including datasets, methodologies, and key insights.
 
+
 ---
+
 
 ## 📁 Projects
 
@@ -45,10 +49,35 @@ The Dashboard can showcase :
 *Tools*: Power-BI 
 *Link*: [View Project](https://github.com/yogeshdeo91/Power-BI-Amazon-User-Analysis-Project)  
 
-![Dashboard Image](https://github.com/user-attachments/assets/80da2b91-9055-4069-b714-4e31b61154ba)
+![Dashboard Image](https://github.com/user-attachments/assets/8fe6724e-166b-46a4-82b2-6330513c12db)
 
 
 ---
+
+
+### 3. **SQL Multiple Table Project on Ecommerce Dataset**  
+*Summary*: This project is to showcase SQL commands performed using Joins.
+
+This project utilizes an E-commerce Order Dataset to extract insights through SQL queries. The dataset contains comprehensive information about orders, items, customers, payments, and products on an e-commerce platform. It is structured with multiple tables, each providing specific details on different aspects of the platform's operations.
+Link*: [View Dataset](https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset)
+
+Actions Performed : 
+1. Analyze Total Sales by Product Category
+2.  Identify Customers with the Most Orders
+3. Determine the Average Order Value by Country
+4. Explore the Relationship Between Customer Location and Product Preferences
+
+*Skills and Tools *: `SQL`, `MySQL`   
+
+*Link*: [View Project](https://github.com/yogeshdeo91/SQL-Multiple-Table-Project-on--Ecommerce-Dataset)  
+
+
+
+
+---
+
+
+
 
 ## 🛠️ Tools & Technologies
 
@@ -57,7 +86,13 @@ The Dashboard can showcase :
 - **Data Visualization**: Power BI, Tableau
 - **RDBMS**: MySQL, Bigquery
 
+
+
+
 ---
+
+
+
 
 ## 📚 Certifications & Courses
 
@@ -76,7 +111,13 @@ The Dashboard can showcase :
 
 
 
+
+
+
 ---
+
+
+
 
 
 ## 📫 Let's Connect
