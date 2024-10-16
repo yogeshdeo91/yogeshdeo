@@ -76,7 +76,28 @@ Actions Performed :
 
 ---
 
+### 4. **Power BI Dashboard Project: [ Power-BI Marketing Performance Analysis]**  
+*Summary*: This project is to showcase SQL commands performed using Joins.
 
+This repository contains a Power BI dashboard project focused on analysing marketing campign performace by chanels, catogry and overall performace. The project showcases key insights derived from the dataset and provides visualizations to support decision-making related to Marketing.
+Link*: [View Dataset](https://www.kaggle.com/datasets/jackdaoud/marketing-data?select=dictionary.png)
+
+1. Dynamic visualizations for better data exploration.
+2. Insightful KPIs such as Web visits per month, total customers, revenue per customer, total spend.
+3. Insights into total amount spend by category
+4. Analyse chanel wise performance
+5. overall campaign performance day by day
+
+
+
+*Skills and Tools *: `SQL`, `MySQL`   
+
+*Link*: [View Project](https://github.com/yogeshdeo91/Power-BI-Marketing-Performance-analysis-dashboard)  
+
+![Marketing Performance Analysis](https://github.com/user-attachments/assets/260f72b7-61be-4d6f-ba23-c83c5203b72e)
+
+
+---
 
 
 ## 🛠️ Tools & Technologies
